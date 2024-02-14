@@ -1,0 +1,63 @@
+:root {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+/* navbar */
+.bg-green {
+    background-color: #28A745;
+}
+
+
+/* main */
+.card-title {
+    font-weight: 300;
+    font-size: 1.7rem;
+    color: #212529;
+
+}
+
+.text-1 {
+    font-size: 1.3rem;
+    color: #707070;
+
+}
+
+.text-2 {
+    font-size: 1.1rem;
+    color: #707070
+}
+
+.text-3 {
+    font-size: 1.3rem;
+    color: #707070
+}
+
+.text-4 {
+    font-size: 1.7rem;
+    color: #28A745
+}
+
+
+.color-bg {
+    background-color: #28A745;
+    padding-bottom: 3rem;
+}
+
+.text-color1 {
+    font-size: 1.4rem;
+    color: #FFFFFF;
+    padding-top: 3rem;
+}
+
+.mb-2 {
+    font-size: 1.3rem;
+    color: #707070;
+}
+
+
+/* footer */
+.derechos {
+    font-size: 1rem;
+    color: #707070;
+}
